@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "a7490c4c421fe08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a6ed7a18a77a0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34dfc0a8d8bd5c36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17ce01bb7cfecb93",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fc0c6dda0455bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5745d17e829a881",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "795d8b462281a913",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6824ba5e6294ebd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6073efb9b9689a27",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd85f4681f07fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a221e2ec851415ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3960c55ca52bb43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3aec561748274bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fe1063940c8decc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "34dfc0a8d8bd5c36",
+  "lastOpenFiles": [
+    "1. Rough Notes/New Kinds of Notes.md",
+    "1. Rough Notes/Note 2.md",
+    "5. Templates/test template.md",
+    "6. Full Notes",
+    "4. Indexes",
+    "3. Tags",
+    "2. Source Material",
+    "1. Rough Notes",
+    "5. Templates",
+    "Welcome.md"
+  ]
+}
