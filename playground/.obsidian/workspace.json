@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16a6ed7a18a77a0e",
+        "id": "6fd176a6eefc5b15",
         "type": "tabs",
         "children": [
           {
-            "id": "34dfc0a8d8bd5c36",
+            "id": "193aa43ab7c3ece9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6073efb9b9689a27",
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,12 +137,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34dfc0a8d8bd5c36",
+  "active": "193aa43ab7c3ece9",
   "lastOpenFiles": [
+    "passive learning.md",
+    "5. Templates/Main Note.md",
+    "Criminal gangs are united by a deep sense of loyalty and belonging.md",
+    "test file.md",
+    "3. Tags/loyalty.md",
+    "3. Tags/crime psychology.md",
+    "2. Source Material/Books/Confessions of a Cartel Hitman by Martin Corona.md",
+    "2. Source Material/Videos/Obsidian - The King of Learning Tools.md",
+    "2. Source Material/QED by Richard Feynman.md",
+    "2. Source Material/Untitled.md",
+    "2. Source Material/Videos",
+    "2. Source Material/Articles",
+    "2. Source Material/Books",
     "1. Rough Notes/New Kinds of Notes.md",
     "1. Rough Notes/Note 2.md",
     "5. Templates/test template.md",
-    "6. Full Notes",
+    "6. Main Notes",
     "4. Indexes",
     "3. Tags",
     "2. Source Material",

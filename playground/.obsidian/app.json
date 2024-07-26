@@ -2,5 +2,6 @@
   "spellcheck": false,
   "vimMode": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "1. Rough Notes"
+  "newFileFolderPath": "6. Full Notes",
+  "strictLineBreaks": false
 }
