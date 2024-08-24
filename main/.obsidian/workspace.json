@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "36fca470625984ea",
@@ -147,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d8c401ea0f2e498",
+  "active": "15a356fe0f48ca9a",
   "lastOpenFiles": [
     "2. Source Materials/Obsidian - The King of Learning Tools by Odysseas.md",
     "5. Templates/Source Material.md",
